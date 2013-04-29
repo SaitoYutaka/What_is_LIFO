@@ -1,0 +1,57 @@
+{
+
+	"HTMLFileName":"LIFO.html",
+	"symbol_stage":{
+		"defaultStageParentHeight":"400px",
+		"dummyStageParentWidth":"550px",
+		"element_${_stack2_002}":{
+			"timelineColor2":"0x4fa275",
+			"animationEnabled":"true",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"},
+		"dummyStageParentHeight":"400px",
+		"defaultStageParentWidth":"550px",
+		"element_${_stack3_002}":{
+			"timelineColor2":"0x81aa62",
+			"animationEnabled":"true",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767"},
+		"element_${_puu_002}":{
+			"timelineColor2":"0xcbbd71",
+			"animationEnabled":"true",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${_stack_0022}":{
+			"timelineColor2":"0x1aa38f",
+			"animationEnabled":"true",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4"}},
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"100",
+	"PubChromeFrameInstallerPrompt":"none",
+	"usedBOM":"false",
+	"nextElementColorIndex":"5",
+	"stage-Default Timeline_playhead_ms":"0",
+	"PubUseChromeFrameInstaller":"false",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+            \"ElementKeyframes\": {\
+                \"${_stack3_002}\": [], \
+                \"${_stack_0022}\": [], \
+                \"${_stack2_002}\": [], \
+                \"${_puu_002}\": []\
+            }\
+      }\
+   }},\
+\"プリローダー\": {\
+   \"timelines\": {\
+\
+   }},\
+\"下位レベル\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"viewStartY":"0"}
