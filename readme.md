@@ -6,4 +6,4 @@ This is a animation shows how LIFO works.
 Use Adobe Edge Animate.
 [Edge Animate](http://html.adobe.com/edge/animate/)
 
-[sample(http://giritofundoshi.com/edge/publish/stack/stack.html)](http://giritofundoshi.com/edge/publish/stack/stack.html)
+[sample(http://giritofundoshi.com/edge/publish/stack/LIFO.html)](http://giritofundoshi.com/edge/publish/stack/LIFO.html)
