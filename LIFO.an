@@ -1,16 +1,16 @@
 {
 
-	"HTMLFileName":"LIFO.html",
+	"PubChromeFrameInstallerPrompt":"none",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
+	"viewStartMs":"-35.575943960076",
 	"symbol_stage":{
-		"defaultStageParentHeight":"400px",
 		"dummyStageParentWidth":"550px",
-		"element_${_stack2_002}":{
-			"timelineColor2":"0x4fa275",
+		"element_${_pop2}":{
+			"timelineColor2":"0xb099ce",
 			"animationEnabled":"true",
-			"timelineColor3":"0x456a55",
-			"timelineColor":"0x50bd82"},
+			"timelineColor3":"0x70657c",
+			"timelineColor":"0xceaef4"},
 		"dummyStageParentHeight":"400px",
-		"defaultStageParentWidth":"550px",
 		"element_${_stack3_002}":{
 			"timelineColor2":"0x81aa62",
 			"animationEnabled":"true",
@@ -21,27 +21,69 @@
 			"animationEnabled":"true",
 			"timelineColor3":"0x7b7652",
 			"timelineColor":"0xeedf79"},
+		"element_${_push1}":{
+			"timelineColor2":"0x326a96",
+			"animationEnabled":"true",
+			"timelineColor3":"0x385063",
+			"timelineColor":"0x2f73ad"},
+		"element_${_pop0}":{
+			"timelineColor2":"0x107faa",
+			"animationEnabled":"true",
+			"timelineColor3":"0x295a6d",
+			"timelineColor":"0x008dc8"},
+		"defaultStageParentHeight":"400px",
+		"element_${_stack2_002}":{
+			"timelineColor2":"0x4fa275",
+			"animationEnabled":"true",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"},
+		"element_${_pop1}":{
+			"timelineColor2":"0x5a558a",
+			"animationEnabled":"true",
+			"timelineColor3":"0x4a485e",
+			"timelineColor":"0x63599f"},
+		"element_${_push0}":{
+			"timelineColor2":"0x168c84",
+			"animationEnabled":"true",
+			"timelineColor3":"0x2a605c",
+			"timelineColor":"0x00a096"},
+		"element_${_push2}":{
+			"timelineColor2":"0x1095d2",
+			"animationEnabled":"true",
+			"timelineColor3":"0x29647e",
+			"timelineColor":"0x00a9fa"},
 		"element_${_stack_0022}":{
 			"timelineColor2":"0x1aa38f",
 			"animationEnabled":"true",
 			"timelineColor3":"0x2a6a61",
-			"timelineColor":"0x00bda4"}},
+			"timelineColor":"0x00bda4"},
+		"defaultStageParentWidth":"550px"},
+	"TransitionIdCounter":"60",
 	"CompZoomFactor":"100",
 	"StageZoomFactor":"100",
-	"PubChromeFrameInstallerPrompt":"none",
+	"pixelsPerMs":"0.14054440848038",
+	"stage-Default Timeline_mark_ms":"-1",
+	"viewStartY":"255",
 	"usedBOM":"false",
-	"nextElementColorIndex":"5",
-	"stage-Default Timeline_playhead_ms":"0",
-	"PubUseChromeFrameInstaller":"false",
+	"nextElementColorIndex":"11",
+	"stage-Default Timeline_playhead_ms":"5500",
 	"ModelData":"{\
 \"stage\": {\
    \"timelines\": {\
       \"Default Timeline\": {\
             \"ElementKeyframes\": {\
+                \"${_Text2Copy}\": [], \
+                \"${_pop1}\": [], \
                 \"${_stack3_002}\": [], \
-                \"${_stack_0022}\": [], \
+                \"${_Text2}\": [], \
+                \"${_puu_002}\": [], \
+                \"${_pop0}\": [], \
                 \"${_stack2_002}\": [], \
-                \"${_puu_002}\": []\
+                \"${_pop2}\": [], \
+                \"${_push2}\": [], \
+                \"${_stack_0022}\": [], \
+                \"${_push1}\": [], \
+                \"${_push0}\": []\
             }\
       }\
    }},\
@@ -54,4 +96,5 @@
 \
    }}\
 }",
-	"viewStartY":"0"}
+	"PubUseChromeFrameInstaller":"false",
+	"HTMLFileName":"LIFO.html"}
